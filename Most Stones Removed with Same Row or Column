@@ -9,7 +9,7 @@ Given an array stones of length n where stones[i] = [xi, yi] represents the loca
 
  
 
-Example 1:
+Example 1: 
 
 Input: stones = [[0,0],[0,1],[1,0],[1,2],[2,1],[2,2]]
 Output: 5
