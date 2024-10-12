@@ -8,7 +8,7 @@ However, you will lose points if you pick a cell too far from the one you chose 
 
 Return the maximum number of points you can achieve.
 
-abs(x) is defined as:
+abs(x) is defined as:  
 
 x for x >= 0# comment
 -x for x < 0.
