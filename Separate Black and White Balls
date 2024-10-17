@@ -26,7 +26,7 @@ Explanation: We can group all the black balls to the right in the following way:
 - Swap s[1] and s[2], s = "001".
 It can be proven that the minimum number of steps needed is 2.
 
-Example 3:
+Example 3: 
 
 Input: s = "0111"
 Output: 0
