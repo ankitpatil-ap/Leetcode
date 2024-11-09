@@ -10,7 +10,7 @@ Return the maximum number of points you can achieve.
 
 abs(x) is defined as:  
 
-x for x >= 0# comment
+x for x >= 0# comment.   
 -x for x < 0.
  
 
